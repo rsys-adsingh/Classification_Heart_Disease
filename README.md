@@ -1,8 +1,9 @@
 # Classification_Heart_Disease
 Heart disease prediction based on medical measurements  Samples: 303 patients 
 
-Features: 
+1. Features: 
 This dataset includes a subset of 14 attributes out of the original 76 in the database:
+
 ID: A unique identifier for each patient.
 Age: The age of the patient in years.
 Origin: The geographic location or source of the study.
@@ -19,5 +20,5 @@ Slope of Peak Exercise ST Segment: Indicates the incline or decline pattern duri
 Number of Major Vessels (CA): Fluoroscopic visualization of 0 to 3 major vessels.
 Thalassemia (Thal): Categories include normal, fixed defect, and reversible defect.
 
-2. Target Variable
+3. Target Variable
 Num: The primary predictive attribute, indicating the presence or absence of heart disease.14 features (age, sex, chest pain type, blood pressure, etc.) Classes: 2 (presence/absence of heart disease)
