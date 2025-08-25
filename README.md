@@ -20,5 +20,5 @@ Slope of Peak Exercise ST Segment: Indicates the incline or decline pattern duri
 Number of Major Vessels (CA): Fluoroscopic visualization of 0 to 3 major vessels.
 Thalassemia (Thal): Categories include normal, fixed defect, and reversible defect.
 
-3. Target Variable
+2. Target Variable
 Num: The primary predictive attribute, indicating the presence or absence of heart disease.14 features (age, sex, chest pain type, blood pressure, etc.) Classes: 2 (presence/absence of heart disease)
